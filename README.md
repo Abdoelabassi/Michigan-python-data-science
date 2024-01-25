@@ -1,14 +1,20 @@
-## Introduction to data science in python
+## What's in here
+My solutions to the Assignments
+
+
+## Applied Data Science with Python Specialization
 
 An online non-credit course authorized by University of Michigan and offered through Coursera
 
 ## Content
 <ul>
-<li>Understanding techniques such as lambdas and manipulating csv files</li>
-<li>Query Dataframe structures for cleaning and processing</li>
-<li>Decscribe common Python functionality and features used for data science</li>
-<li>Explain distributions, sampling, and t-tests</li>
+<li>Introduction to Data Science</li>
+<li>Applied Plotting, Charting and Data Representation in Python</li>
+<li>Applied Machine Learning in Python</li>
+<li>Applied Text Mining in Python</li>
+<li>Applied Social Network Analysis in Python</li>
 
 </ul>
+
 
 
