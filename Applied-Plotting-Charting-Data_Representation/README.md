@@ -8,3 +8,7 @@ an online course non-credit course authorized by University of Michigan through 
 <li>Charting Fundamentals</li>
 <li>Applied Visualization</li>
 </ul>
+
+### Instructor
+Christopher Brooks, PhD
+
